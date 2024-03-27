@@ -1,0 +1,12 @@
+.backBtn {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    border-radius: 30px;
+    height: 100px;
+    width: 150px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}

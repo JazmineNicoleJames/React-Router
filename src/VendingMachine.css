@@ -1,0 +1,46 @@
+.vendingMachine {
+    position: relative;
+}
+
+.vendingMachineGreet {
+    background-color: black;
+    color: white;
+    padding-top: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(210, 41, 41, 0.2);
+
+}
+
+.listItems {
+    width: 20vw;
+    height: 17vh;
+    border: 2px solid rgb(186, 55, 55);
+    position: absolute;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top: 5%;
+    left: 75%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(73, 20, 20, 0.7);
+}
+
+li {
+    padding: 5px;
+}
+
+li:hover {
+    color:chartreuse;
+}
+
+.rootbeerLink {
+    color: white;
+}
+
+.chexMixLink {
+    color: white;
+}
+
+.candyCornLink {
+    color: white;
+}
